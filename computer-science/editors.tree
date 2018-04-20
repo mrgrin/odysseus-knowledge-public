@@ -1,0 +1,8 @@
+text_editor
+	QED year:1966 designer:Butler_Lampson,Peter_Deutsch from:<?>
+	ed year:1971 designer:Ken_Thompson from:QED
+	sed year:1974 designer:Lee_McMahon from:ed	
+	vi year:1976 designer:Bill_Joy written-in:C from:<?>
+computer_algebra_system
+	Mathcad year:1986 company:Mathsoft
+

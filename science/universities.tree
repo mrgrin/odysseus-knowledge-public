@@ -1,0 +1,44 @@
+germany
+	TUM name:"Technical University of Munich" city:Munich established:1868
+	UFreiburg name:"University of Freiburg" city:Freiburg_im_Breisgau established:1457
+	RWTH_Aachen_University name:"Rheinisch-Westfälische Technische Hochschule Aachen" city:Aahen established:10.10.1870
+	TUBerlin name:"Technical University of Berlin" city:Berlin established:1879
+switzerland
+	ETH_Zurich name:"Swiss Federal Institute of Technology" city:Zurich established:1855
+england
+	UOxford city:Oxford established:~1096
+	UCambridge city:Cambridge established:~1209
+	UManchester city:Manchester estanlished:1824
+	UEdinburgh city:Edinburgh estanlished:1582
+canada
+	UBColumbia name:"University of British Columbia" city:Vancouver established:1908
+	UToronto name:"University of Toronto" city:Toronto established:15.03.1827
+new_zealand
+	UAuckland name:"University of Auckland" city:Auckland established:1883
+russia
+	ISU name:"Иркутский государственный университет" city:Иркутск established:1918
+	MSU name:"Московский государственный университет" city:Москва established:25.01.1755
+usa
+	CDartmouth name:"Dartmouth College" city:Hanover member:Ivy_League established:1769
+	UHarvard name:"Harvard University" city:Cambridge member:Ivy_League established:1636
+	UBrown name:"Brown University" city:Providence member:Ivy_League established:1764
+	UCornell name:"Cornell University" city:Ithaca member:Ivy_League established:1865
+	UYale name:"Yale University" city:New_Haven member:Ivy_League established:09.10.1701
+	UColumbia name:"Columbia University" city:New_York member:Ivy_League established:1754
+	UPrinceton name:"Princeton University" city:Princeton member:Ivy_League established:1746
+	UPenn name:"University of Pennsylvania" city:Philadelphia member:Ivy_League established:14.11.1740
+	IIT name:"Illinois Institute of Technology" city:Chicago established:1890
+	UMichigan name:"University of Michigan" city:Ann_Arbor established:26.08.1817
+	UStanford name:"Stanford University" city:Stanford established:1891
+	MIT name:"Massachusetts Institute of Technology" city:Cambridge established:10.04.1861
+	UCalifornia name:"University of California" city:Oakland established:23.03.1868
+	CIT name:"California Institute of Technology" city:Pasadena established:1891
+	UIllinois
+		UUrbana-Champaign name:"University of Illinois at Urbana–Champaign" city:Urbana,Champaign established:1867
+		USpringfield name:"University of Illinois at Springfield" city:Springfield established:1969
+		UChicago name:"University of Illinois at Chicago" city:Chicago established:1965
+	NYU name:"New York University" city:New_York established:1831
+		CIMS name:"Courant Institute of Mathematical Sciences" city:New_York established:1935
+	CarnegieMU name:"Carnegie Mellon University" city:Pittsburgh established:1900	
+	UNMexico name:"University of New Mexico" city:Albuquerque established:28.02.1889	
+	

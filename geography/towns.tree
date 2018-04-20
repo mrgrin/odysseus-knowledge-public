@@ -1,0 +1,921 @@
+; coordinates: <degree>.<2 decimal digits>. '-' sign is used when southern or western hemisphere
+Northern_America
+	Canada
+		Yukon
+		Northwest_Territories
+		Nunavut
+		Newfoundland_and_Labrador
+		British_Columbia
+			Vancouver lat:49.28 lon:-123.12
+			Surrey lat:49.19 lon:-122.84
+		Alberta
+			Edmonton
+			Calgary
+		Saskatchewan
+		Manitoba
+			Winnipeg
+		Ontario
+			Ottawa
+			Toronto
+			Missisauga
+			Brampton
+			Hamilton
+		Quebec_Province
+			Quebec
+			Montreal
+			Laval
+		New_Brunswick
+		Prince_Edward_Island
+		Nova_Scotia
+			Halifax
+	USA
+		WA ; Washington
+			Seattle
+		OR ; Oregon
+			Portland
+		CA ; California
+			San_Francisco lat:37.77 lon:-122.41
+			Los_Angeles lat:34.05 lon:-118.24
+			Pasadena
+			San-Diego
+			Menlo_Park
+			Mountain_View lat:37.38 lon:-122.08
+		ID ; Idaho
+		NV ; Nevada
+			Las-Vegas
+		AZ ; Arizona
+		UT ; Utah
+			Salt_Lake_City
+		WY ; Wyoming
+		MT ; Monatna
+		CO ; Colorado
+		NM ; New Mexico
+		TX ; Texas
+			Dallas
+		OK ; Oklahoma
+			Oklahoma-City
+		KS ; Kansas
+			Kansas-City
+		NE ; Nevada
+		SD ; South Dakota
+		ND ; North Dakota
+		MN ; Minnesota
+		IA ; Iowa
+		MO ; Missouri
+		AR ; Arkansas
+		LA ; Louisiana
+		MS ; Mississippi
+		TN ; Tennessee
+		KY ; Kentucky
+		IL ; Illinois
+			Naperville
+		WI ; Wisconsin
+		MI ; Michigan
+		IN ; Indiana
+		OH ; Ohio
+		WV ; West Virginia
+		FL ; Florida
+		AL ; Alabama
+		GA ; Georgia
+			Atlanta
+		SC ; South Carolina
+		NC ; North Carolina
+		VA ; Virginia
+			Blacksburg
+			Alexandria
+			Arlington
+		DC ; DC Columbia
+			Washington
+		MD ; Maryland
+			Bethesda
+		DE ; Delaware
+		NJ ; New Jersey
+			Hoboken
+		CT ; Connecticut
+			Storrs
+			Mansfield
+		RI ; Rod Island
+		MA ; Massachusetts
+			Boston lat:42.36 lon:71.05
+		VT ; Vermont
+		NH ; New Hampshire
+		NY ; New York
+			New_York lat:40.71 lon:-74.00
+			New_Rochelle
+			Buffalo
+			Ithaca
+		ME ; Men
+			Bangor
+		AK ; Alaska
+		HI ; Hawaii
+			Honolulu
+	Mexico
+		Mexico_City
+Southern_America
+	Argentina
+	Brazil
+		Rio_de_Janeiro lat:-22.91 lon:-43.18
+	Chile
+	Ecuador
+	Peru
+	Uruguay
+Asia
+	Japan
+		Hokkaido ;
+		Aomori
+		Akita
+		Iwate
+		Yamagata
+		Miyagi
+		Fukushima ;
+		Nigata
+		Toyama
+		Nagano
+		Yamanashi
+		Ishikawa
+		Fukui
+		Gifu
+		Aichi
+		Shizuoka ;
+		Tochigi
+		Gunma
+		Saitama
+			Wako
+		Tokyo_Prefecture
+			Tokyo
+		Kanagawa
+			Kawasaki
+		Chiba
+		Ibaraki ;
+			Tsukuba
+		Kyoto_Prefecture
+			Kyoto
+		Shiga
+		Mie
+		Nara
+		Hyogo
+		Osaka_Prefecture
+		Wakayama ;
+		Kagawa
+		Tokushima
+		Kochi
+		Ehime ;
+		Tottori
+		Okayama
+		Hiroshima_Prefecture
+		Shimane
+		Yamaguchi ;
+		Fukuoka
+		Oita
+		Saga
+		Nagasaki
+		Kumamoto
+		Miyazaki
+		Kagoshima ;
+		Okinawa
+			Onna
+	China
+		Beijing_Municipality
+		Tianjin_Municipality
+		Hebei
+		Shanxi
+		Inner_Mongolia_Autonomous_Region
+		Liaoning
+		Jilin
+		Heilongjiang
+		Shanghai_Municipality
+		Jiangsu
+		Zhejiang
+		Anhui
+		Fujian
+		Jiangxi
+		Shandong
+		Henan
+		Hubei
+		Hunan
+		Guangdong
+		Guangxi_Zhuang_Autonomous_Region
+		Hainan
+		Chongqing_Municipality
+		Sichuan
+		Guizhou
+		Yunnan
+		Tibet_Autonomous_Region
+		Shaanxi
+		Gansu
+		Qinghai
+		Ningxia_Hui_Autonomous_Region
+		Xinjiang_Uyghur_Autonomous_Region
+		Hong_Kong_Special_Administrative_Region
+		Macau_Special_Administrative_Region
+	Taiwan
+		Lienchiang
+		Kinmen
+		Penghu
+		Pingtung
+		Taitung
+		Kaohsiung
+		Tainan
+		Chiayi_County
+		Chiayi_City
+		Yunlin
+		Nantou
+		Hualien
+		Changhua
+		Taichung
+		Yilan
+		Hsinchu_County
+		Hsinchu_City
+		Taoyuan
+		New_Taipei
+		Taipei_City
+		Keelung_City
+	South_Korea
+		North_Chungcheong
+		South_Chungcheong
+		Gangwon
+		Gyeonggi
+		North_Gyeongsang
+		South_Gyeongsang
+		North_Jeolla
+		South_Jeolla
+			Gwangju
+		Jeju
+		Seoul_Capital_Area
+			Seoul lat:37.56 lon:126.97
+	India
+	Turkey
+		Istanbul_Province
+		Ankara_Province
+			Ankara lat:39.93 lon:32.85
+		Izmir_Province
+		Bursa
+		Antalya
+		Adana
+		Konya
+		Gaziantep
+		Sanliurfa
+		Mersin
+		Kocaeli
+		Diyarbakir
+		Hatay
+		Manisa
+		Kayseri
+		Samsun
+		Balikesir
+		Kahramanmaras
+		Van
+		Aydin
+		Denizli
+		Sakarya
+		Tekirdag
+		Mugla
+		Eskisehir
+		Mardin
+		Malatya
+		Trabzon
+		Erzurum
+		Ordu
+		Afyonkarahisar
+		Sivas
+		Zonguldak
+		Tokat
+		Adiyaman
+		Kutahya
+		Elazig
+		Batman
+		Agri
+		Corum
+		Canakkale
+		Osmaniye
+		Sirnak
+		Yozgat
+		Giresun
+		Isparta
+		Mus
+		Edirne
+		Aksaray
+		Kastamonu
+		Duzce
+		Usak
+		Nigde
+		Kirklareli
+		Bitlis
+		Rize
+		Amasya
+		Siirt
+		Kars
+		Nevsehir
+		Bolu
+		Hakkari
+		Kirikkale
+		Bingol
+		Burdur
+		Karaman
+		Karabuk
+		Yalova
+		Erzincan
+		Kirsehir
+		Bilecik
+		Sinop
+		Igdir
+		Bartin
+		Cankiri
+		Artvin
+		Gumushane
+		Kilis
+		Ardahan
+		Tunceli
+		Bayburt
+	Israel
+		Jerusalem_Mahoz
+			Jerusalem lat:31.76 lon:35.21
+		Northern_Mahoz
+		Haifa_Mahoz
+			Haifa
+		Central_Mahoz
+		Tel_Aviv_Mahoz
+			Tel_Aviv
+		Southern_Mahoz
+Europe
+	Iceland
+		Capital_Region ; Höfuðborgarsvæði
+			Reykjavík lat:64.12 lon:-21.81
+		Southern_Peninsula
+		Western_Region
+		Westfjords
+		Northwestern_Region
+		Northeastern_Region
+		Eastern_Region
+		Southern_Region
+	Norway
+		Østfold
+		Akershus
+		Oslo_Fylke
+			Oslo lat:59.91 lon:10.75
+		Hedmark
+		Oppland
+		Buskerud
+		Vestfold
+		Telemark
+		Aust-Agder
+		Vest-Agder
+		Rogaland
+			Stavanger
+		Hordaland
+			Bergen
+		Sogn_og_Fjordane
+		Møre_og_Romsdal
+		Nordland
+		Troms
+			Tromso lat:69.64 lon:18.95
+		Finnmark
+		Trøndelag
+			Trondheim
+	Sweden
+		Stockholm_County
+			Stockholm lat:59.32 lon:18.06
+		Västerbotten
+		Norrbotten
+		Uppsala_County
+			Uppsala
+		Södermanland
+		Östergötland
+		Jönköping_County
+		Kronoberg
+		Kalmar
+		Gotland
+		Blekinge
+		Skåne
+			Malmö
+			Lund
+		Halland
+		Västra_Götaland
+			Gothenburg lat:57.70 lon:11.97
+		Värmland
+		Örebro
+		Västmanland
+		Dalarna
+		Gävleborg
+		Västernorrland
+		Jämtland
+	Finland
+		Southern_Finland
+			Helsinki lat:60.16 lon:24.93
+		Wesern_Finland
+			Tampere
+		Eastern_Finland
+			Kuopio
+		Oulu_Province
+			Oulu lat:65.01 lon:25.46
+		Lapland
+			Rovaniemi
+		Åland
+			Mariehamn
+	Denmark
+		Region_Hovedstaden
+			Copenhavn
+		Region_Midtjylland
+		Region_Nordjylland
+		Region_Sjælland
+		Region_Syddanmark
+	United_Kingdom
+	England is:United_Kingdom
+		Greater_London
+			London lat:51.50 lon:-0.12
+			Brentford
+		; North_East
+		Northumberland
+		County_Durham
+		Tyne_and_Wear
+		; North_West
+		Cheshire
+		Cumbria
+		Greater_Manchester
+			Manchester
+			Bolton
+		Lancashire
+		Merseyside
+			Liverpool
+		; Yorkshire_and_the_Humber
+		South_Yorkshire
+		West_Yorkshire
+		East_Riding_of_Yorkshire
+		North_Lincolnshire
+		North_East_Lincolnshire
+		; East_Midlands
+		Derbyshire
+		Leicestershire
+		Lincolnshire
+		Northamptonshire
+		Nottinghamshire
+		Rutland
+		; West_Midlands
+		Herefordshire
+		Shropshire
+		Staffordshire
+		Warwickshire
+		West_Midlands_County
+			Birmingham
+		Worcestershire
+		; East_of_England
+		Bedfordshire
+		Cambridgeshire
+			Babraham
+			Hinxton
+		Essex
+		Hertfordshire
+		Norfolk
+		Suffolk
+		; South_East
+		Berkshire
+		Buckinghamshire
+		East_Sussex
+		Hampshire
+		Isle_of_Wight
+		Kent
+		Oxfordshire
+			Oxford lat:51.75 lon:-1.25
+		Surrey
+		West_Sussex
+		; South_West
+		Gloucestershire
+		Bristol_County
+		Wiltshire
+			Swindon
+		Somerset
+		Dorset
+		Devon_and_Cornwall
+		Isles_of_Scilly
+	Wales is:United_Kingdom
+		Caerdydd
+			Cardiff
+		Carmarthenshire
+		Ceredigion
+		Denbighshire
+		Flintshire
+		Gwynedd
+		Isle_of_Anglesey
+		Monmouthshire
+		Pembrokeshire
+		Powys
+		Abertawe
+			Swansea
+	Scotland is:United_Kingdom
+		Aberdeen_City
+		Aberdeenshire
+		Angus
+		Argyll_and_Bute
+		Clackmannanshire
+		Dumfries_and_Galloway
+		Dundee_City
+		East_Ayrshire
+		East_Dunbartonshire
+		East_Lothian
+		East_Renfrewshire
+		City_of_Edinburgh
+			Edinburgh
+		Falkirk
+		Fife
+		Glasgow_City
+		Highland
+		Inverclyde
+		Midlothian
+		Moray
+		North_Ayrshire
+		North_Lanarkshire
+			Glasgow
+		Perth_and_Kinross
+		Renfrewshire
+		Scottish_Borders
+		South_Ayrshire
+		South_Lanarkshire
+			Glasgow
+		Stirling
+		West_Dunbartonshire
+		West_Lothian
+	Northern_Ireland is:United_Kingdom
+		Antrim
+			Belfast
+			Jordanstown
+		Armagh
+		Down
+		Fermanagh
+		Londonderry
+		Tyrone
+	Ireland
+		Antrim
+			Belfast
+		Armagh
+		Carlow
+		Cavan
+		Clare
+		Cork
+		Donegal
+		Down
+		City_of_Dublin
+			Dublin
+		Fermanagh
+		Galway
+		Kerry
+		Kildare
+		Kilkenny
+		Laois
+		Leitrim
+		Limerick
+		Londonderry
+			Coleraine
+			Derry
+		Longford
+		Louth
+		Mayo
+		Meath
+		Monaghan
+		Offaly
+		Roscommon
+		Sligo
+		Tipperary
+		Tyrone
+		Waterford
+		Westmeath
+		Wexford
+		Wicklow
+	Germany
+		Baden-Württemberg
+			Heidelberg
+			Konstanz
+			Stuttgart
+			Tubingen
+		Bavaria
+			Munich lat:48.13 lon:11.58
+		City_of_Berlin
+			Berlin
+		Brandenburg
+		Bremen
+		City_of_Hamburg
+			Hamburg lat:53.55 lon:9.99
+		Hesse
+		Lower_Saxony
+			Gottingen
+		Mecklenburg-Vorpommern
+			Rostock
+		North_Rhine-Westphalia
+			Lennestadt
+		Rhineland-Palatinate
+		Saarland
+		Saxony
+		Saxony-Anhalt
+			Gatersleben
+		Schleswig-Holstein
+		Thuringia
+	Netherlands
+		Drenthe
+		Flevoland
+		Friesland
+		Gelderland
+			Wageningen
+		Groningen
+		Limburg
+			Maastricht
+		North_Brabant
+		North_Holland
+		Overijssel
+		South_Holland
+		City_of_Utrecht
+			Utrecht
+		Zeeland
+	Belgium
+		Antwerp
+		East_Flanders
+		Flemish_Brabant
+		Limbourg
+		West_Flanders
+		Hainaut
+		Liege
+		Luxembourg_Province
+		Namur
+		Walloon_Brabant
+		Brussels-Capital_Region
+			Brussel
+	France
+		Auvergne-Rhone-Alpes
+			Clermont-Ferrand
+			Grenoble
+		Bourgogne-Franche-Comte
+		Brittany
+			Rennes
+		Centre-Val_de_Loire
+		Corse
+		Grand_Est
+			Nancy
+		Hauts-de-France
+			Lille
+		Ile-de-France
+			Paris
+			Saclay pseudonym:"European Silicon Valley"
+			Rocquencourt
+		Normandie
+		Nouvelle-Aquitaine
+			Bordeaux
+		Occitanie
+		Pays_de_la_Loire
+		Provence-Alpes-Cote_dAzur
+			Antibes
+			Sophia_Antipolis
+	Italy
+		Abruzzo
+		Aosta_Valley
+		Apulia
+		Basilicata
+		Calabria
+		Campania
+		Emilia-Romagna
+		Friuli-Venezia_Giulia
+		Lazio
+			Rome lat:41.90 lon:12.49
+			Monterotondo
+		Liguria
+		Lombardy
+			Milan
+		Marches
+		Molise
+		Piedmont
+		Sardinia
+		Sicily
+		Trentino-South_Tirol
+		Tuscany
+			Florence lat:43.76 lon:11.25
+		Umbria
+		Veneto
+			Padua
+	Luxembourg
+		Arlon
+		Bastogne
+		Virton
+		Neufchateau
+		Marche-en-Famenne
+		Luxembourg_Canton
+			Luxembourg_City
+			Esch-sur-Alzette
+	Switzerland
+		Zürich_Canton
+			Zürich
+		Bern_Canton
+			Bern
+		Luzern
+		Uri
+		Schwyz
+		Obwalden
+		Nidwalden
+		Glarus
+		Zug
+		Fribourg
+		Solothurn
+		Basel-Stadt
+		Basel-Landschaft
+		Schaffhausen
+		Appenzell_Ausserrhoden
+		Appenzell_Innerrhoden
+		St_Gallen
+		Graubunden
+		Aargau
+		Thurgau
+		Ticino
+		Vaud
+			Lausanne
+		Valais
+		Neuchatel
+		Geneva_Canton
+			Geneva
+		Jura
+	Austria
+		Vienna_Land
+			Vienna lat:48.20 lon:16.37
+		Lower_Austria
+		Upper_Austria
+		Styria
+		Tyrol
+		Carinthia
+		Salzburg_Land
+		Vorarlberg
+		Burgenland
+	Spain
+		spanish_province
+			Asturias
+			Alava
+			Albacete
+			Alicante
+			Almeria
+			Asturias
+			Avila
+			A_Coruna
+			Badajoz
+			Balearic_Islands
+			Barcelona_Province
+			Biscay
+			Burgos
+			Caceres
+			Cadiz
+			Cantabria
+			Castellion
+			Ciudad_Real
+			Cordoba
+			Cuenca
+			Gipuzkoa
+			Girona
+			Granada
+			Guadalajara
+			Huelva
+			Huesca
+			Jaen
+			La_Rioja
+			Las_Palmas
+			Leon
+			Lleida
+			Lugo
+			Madrid_Province
+			Malaga
+			Murcia
+			Navarre
+			Ourense
+			Palencia
+			Pontevedra
+			Salamanca
+			Santa_Cruz_de_Tenerife
+			Segovia
+			Seville
+			Soria
+			Tarragona
+			Teruel
+			Toledo
+			Valencia
+			Valiadolid
+			Zamora
+			Zaragoza
+		Andalusia
+			Malaga
+		Catalonia
+		Community_of_Madrid
+		Valencian_Community
+		Galicia
+		Castile_and_Leon
+		Basque_Country
+		Castilla-La_Mancha
+		Canary_Islands
+		Region_of_Murcia
+		Aragon
+		Extremadura
+		Balearic_Islands
+		Asturias
+		Navarre
+		Cantabria
+		La_Rioja
+	Portugal
+		Norte_Region
+			Porto lat:41.15 lon:-8.62
+		Centro_Region
+		Alentejo
+		Algarve
+		Lisboa_Region
+			Lisbon
+		Azores
+		Madeira
+	Hungary
+	Poland
+	Czech_Republic
+		Prague_Hlavni_Mesto
+			Prague lat:50.07 lon:14.43
+		Central_Bohemian
+		South_Bohemian
+		Vysocina
+		Plzen_Kraj
+		Karlovy_Vary_Kraj
+		Usti_nad_Labem_Kraj
+		Liberec_Kraj
+		Hradec_Karlove_Kraj
+		Pardubice_Kraj
+		Olomouc_Kraj
+		Moravian_Silesian
+			Ostrava
+		South_Moravian
+			Brno
+		Zlin_Kraj
+	Slovakia
+	Romania
+	Serbia
+	Slovenia
+	Croatia
+	Montenegro
+	Greece
+		Attica
+		Central_Greece
+		Central_Macedonia
+		Crete
+		Eastern_Macedonia_and_Thrace
+		Epirus
+		Ionian_Islands
+		North_Aegean
+		Peloponnese
+		South_Aegean
+		Thessaly
+		Western_Greece
+		Western_Macedonia
+	Estonia
+	Latvia
+	Lithuania
+	Russia
+		Moscow_Agglomeration
+			Moscow
+			Zelenograd lat:55.98 lon:37.17
+		Moscow_region
+			Pushchino lat:54.83 lon:37.62
+			Dolgoprudny
+		Saint-Petersburg
+		Novosibirsk_Oblast
+			Novosibirsk
+		Rostov_oblast
+			Rostov-on-Don lat:47.23 lon:39.70
+Oceania
+	Australia
+		Western_Australia
+			Perth
+		Northern_Territory
+		Queensland
+		South_Australia
+		News_South_Wales
+		Victoria
+			Melbourne
+		Tasmania
+		Australian_Capital_Territory
+	New_Zealand
+		Northland
+		Auckland_Region
+			Auckland
+		Waikato
+		Bay_of_Plenty
+		Gisborne
+		Hawkes_Bay
+		Taranaki
+		Manawatu-Wanganui
+		Wellington_Region
+			Wellington
+		Tasman
+		Nelson
+		Marlborough
+		West_Coast
+		Canterbury
+		Otago
+		Southland
+Africa
+	South_Africa
+		Western_Cape
+			Stellenbosch
+		Northern_Cape
+		Eastern_Cape
+		Free_State
+		North_West
+		Gauteng
+		Mpumalanga
+		Limpopo
+		Kwazulu-Natal
+		Eastern_Cape
