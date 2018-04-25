@@ -1,0 +1,18 @@
+publisher
+	europe
+		england
+			BMC name:"BioMed Central" city:London part-of:Springer_Nature
+			OUP name:"Oxford University Press" city:Oxford
+		germany
+			Holtzbrinck name:"Holtzbrinck Publishing Group" city:Stuttgart		
+			Springer_Science city:Berlin,Heidelberg part-of:Springer_Nature
+		netherlands
+			Elsevier name:"Elsevier Ltd." city:Amsterdam
+		russia
+			Elibrary name:"Научная электронная библиотека" city:Moscow
+	north_america
+		usa
+			MAL name:"Mary Ann Liebert, Inc." city:New_Rochelle
+			Wiley name:"John Wiley & Sons" city:Hoboken
+		canada
+			ThomsonReuters name:"Thomson Reuters Corporation" city:Toronto

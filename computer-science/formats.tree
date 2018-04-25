@@ -1,0 +1,21 @@
+data_format
+	JSON year:2001 deabbr:"JavaScript Object Notation" designer:Douglas_Crockford company:State_Software from:JavaScript
+	YAML year:2001 deabbr:"YAML Ain't Markup Language" designer:Clark_Evans,Ingy_dot_Net,Oren_Ben-Kiki from:JSON
+	GeoJSON year:2007 from:JSON
+	CSON year:2011 deabbr:"CoffeeScript Object Notation" company:Bevry from:JSON,CoffeeScript
+	TabTree year:2018 designer:Denis_Shirshov from:Racket,YAML
+ontology_format
+	RDF
+		OWL
+			; OWL-representation
+			OWL-XML represents:OWL
+			Turtle represents:OWL
+			N3 represents:OWL
+			OBO represents:OWL specification:"http://owlcollab.github.io/oboformat/doc/GO.format.obo-1_2.html"
+				GO name:"Gene Ontology"
+			Manchester_Syntax represents:OWL
+			; OWL-sublanguage
+			OWL_Lite sublanguage-of:OWL
+			OWL_DL sublanguage-of:OWL
+			OWL_Full sublanguage-of:OWL
+		RDF-XML represents:RDF

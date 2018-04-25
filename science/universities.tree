@@ -1,44 +1,183 @@
-germany
-	TUM name:"Technical University of Munich" city:Munich established:1868
-	UFreiburg name:"University of Freiburg" city:Freiburg_im_Breisgau established:1457
-	RWTH_Aachen_University name:"Rheinisch-Westfälische Technische Hochschule Aachen" city:Aahen established:10.10.1870
-	TUBerlin name:"Technical University of Berlin" city:Berlin established:1879
-switzerland
-	ETH_Zurich name:"Swiss Federal Institute of Technology" city:Zurich established:1855
-england
-	UOxford city:Oxford established:~1096
-	UCambridge city:Cambridge established:~1209
-	UManchester city:Manchester estanlished:1824
-	UEdinburgh city:Edinburgh estanlished:1582
-canada
-	UBColumbia name:"University of British Columbia" city:Vancouver established:1908
-	UToronto name:"University of Toronto" city:Toronto established:15.03.1827
-new_zealand
-	UAuckland name:"University of Auckland" city:Auckland established:1883
-russia
-	ISU name:"Иркутский государственный университет" city:Иркутск established:1918
-	MSU name:"Московский государственный университет" city:Москва established:25.01.1755
-usa
-	CDartmouth name:"Dartmouth College" city:Hanover member:Ivy_League established:1769
-	UHarvard name:"Harvard University" city:Cambridge member:Ivy_League established:1636
-	UBrown name:"Brown University" city:Providence member:Ivy_League established:1764
-	UCornell name:"Cornell University" city:Ithaca member:Ivy_League established:1865
-	UYale name:"Yale University" city:New_Haven member:Ivy_League established:09.10.1701
-	UColumbia name:"Columbia University" city:New_York member:Ivy_League established:1754
-	UPrinceton name:"Princeton University" city:Princeton member:Ivy_League established:1746
-	UPenn name:"University of Pennsylvania" city:Philadelphia member:Ivy_League established:14.11.1740
-	IIT name:"Illinois Institute of Technology" city:Chicago established:1890
-	UMichigan name:"University of Michigan" city:Ann_Arbor established:26.08.1817
-	UStanford name:"Stanford University" city:Stanford established:1891
-	MIT name:"Massachusetts Institute of Technology" city:Cambridge established:10.04.1861
-	UCalifornia name:"University of California" city:Oakland established:23.03.1868
-	CIT name:"California Institute of Technology" city:Pasadena established:1891
-	UIllinois
-		UUrbana-Champaign name:"University of Illinois at Urbana–Champaign" city:Urbana,Champaign established:1867
-		USpringfield name:"University of Illinois at Springfield" city:Springfield established:1969
-		UChicago name:"University of Illinois at Chicago" city:Chicago established:1965
-	NYU name:"New York University" city:New_York established:1831
-		CIMS name:"Courant Institute of Mathematical Sciences" city:New_York established:1935
-	CarnegieMU name:"Carnegie Mellon University" city:Pittsburgh established:1900	
-	UNMexico name:"University of New Mexico" city:Albuquerque established:28.02.1889	
+university
+	europe
+		belgium
+			UBrussels name:"Free University of Brussels" hq:Brussels established:1834
+				ULB name:"Université Libre de Bruxelles" established:1969
+				VUB name:"Vrije Universiteit Brussel" established:1969
+		england
+			UOxford hq:Oxford established:~1096
+			UCambridge hq:Cambridge established:~1209
+			VUManchester name:"Victoria University of Manchester" hq:Manchester established:1851 merged-to:UManchester
+			UManchester name:"University of Manchester" hq:Manchester established:1824
+				MCISB name:"Manchester Centre for Integrative Systems Biology"		
+			UCLondon name:"University College London" hq:London
+			UKent hq:Canterbury established:1965
+			ULondon hq:London established:1836
+				BirbeckCollege hq:Bloomsbury established:1823
+		france
+			UClermont name:"University of Auvergne" hq:Clermont-Ferrand	
+		germany
+			TUM name:"Technical University of Munich" hq:Munich established:1868
+			UFreiburg name:"University of Freiburg" hq:Freiburg_im_Breisgau established:1457
+			RWTH_Aachen_University name:"Rheinisch-Westfälische Technische Hochschule Aachen" hq:Aahen established:1870
+			TUBerlin name:"Technical University of Berlin" hq:Berlin established:1879
+			UKonstanz name:"University of Konstanz" hq:Konstanz
+			URostock name:"University of Rostock" hq:Rostock
+			UHumboldt name:"Humboldt University of Berlin" hq:Berlin
+			UHeidelberg name:"University of Heidelberg" hq:Heidelberg
+			UTubingen name:"University of Tübingen" hq:Tubingen
+			UGottingen name:"University of Göttingen" hq:Gottingen
+		italy
+			UFlorence name:"University of Florence" hq:Florence
+			UPadua name:"University of Padua" hq:Padua
+			SURome name:"Sapienza University of Rome" hq:Rome established:1303
+		luxembourg
+			ULuxembourg name:"University of Luxembourg" hq:Esch-sur-Alzette		
+		netherlands
+			WUR name:"Wageningen University and Research Centre" hq:Wageningen
+			UMaastricht name:"Maastricht University" hq:Maastricht
+			Vrije name:"Vrije Universiteit Amsterdam" hq:Amsterdam
+			UNijmegen name:"Radboud University Nijmegen" hq:Nijmegen established:1923
+		northern_ireland
+			UUlster name:"Ulster University" hq:Coleraine,Belfast,Jordanstown,Derry	
+		norway
+			NTNU name:"Norwegian University of Science and Technology" hq:Trondheim
+			UiB name:"University of Bergen" hq:Bergen	
+		poland
+			UWroclaw name:"University of UWroclaw" former-name:"Universität Breslau" hq:UWroclaw established:1702	
+		russia
+			ISU name:"Иркутский государственный университет" hq:Irkutsk established:1918
+			MSU name:"Московский государственный университет" hq:Moscow established:1755
+			MIPT rus-abbr:"МФТИ" nick:"Физтех" hq:Dolgoprudny established:1951
+			MIEE rus-abbr:"МИЭТ" hq:Zelenograd established:1965
+			RSTU name:"Rostov State Transport University" rus-abbr:"РГУПС" hq:Rostov-on-Don
+		scotland
+			UEdinburgh name:"University of Edinburgh" hq:Edinburgh established:1582
+				UEMS name:"University of Edinburgh Medical School" hq:Edinburgh	
+		spain
+			UMalaga name:"University of Malaga" hq:Malaga
+		sweden
+			ULinkoping name:"Linköping University" hq:Linkoping established:1969
+		switzerland
+			ETH_Zurich name:"Swiss Federal Institute of Technology" hq:Zurich established:1855
+			EPFL name:"École polytechnique fédérale de Lausanne" hq:Ecublens established:1853
+	asia
+		japan
+			UKeio name:"Keio University" hq:Tokyo
+			Tokyo_Medical_and_Dental_University alt-id:TMDU hq:Tokyo
+			OkinawaIST name:"Okinawa Institute of Science and Technology" hq:Onna country:Japan
+			UKyoto name:"Kyoto University" nick:"Kyodai" hq:Kyoto
+		south_korea
+			GIST name:"Gwangju Institute of Science and Technology" hq:Gwangju
+		turkey
+			UBilkent name:"UBilkent University" hq:Ankara		
+	north_america
+		canada
+			UBColumbia name:"University of British Columbia" hq:Vancouver established:1908
+			UToronto name:"University of Toronto" hq:Toronto established:1827	
+		usa
+			WA ; Washington
+				UWashington hq:Seattle established:1861
+			OR ; Oregon
+				OregonHSU name:"Oregon Health & Science University" hq:Portland state:OR
+			CA ; California
+				UStanford name:"Stanford University" hq:Stanford established:1891
+				UCalifornia name:"University of California" hq:Oakland established:1868
+				USouthernCalifornia name:"University of Southern California" hq:Los_Angeles
+				CIT name:"California Institute of Technology" alt-id:Caltech hq:Pasadena established:1891				
+			ID ; Idaho
+			NV ; Nevada
+			AZ ; Arizona
+			UT ; Utah
+				Brigham_Young_University alt-id:BYU hq:Provo established:1875
+			WY ; Wyoming
+			MT ; Monatna
+			CO ; Colorado
+				UColorado hq:Denver established:1876
+			NM ; New Mexico
+				UNMexico name:"University of New Mexico" hq:Albuquerque established:1889
+			TX ; Texas
+				TrinityUniversity name:"Trinity University" hq:San_Antonio established:1869
+				URice hq:Houston established:1912
+			OK ; Oklahoma
+			KS ; Kansas
+			NE ; Nevada
+			SD ; South Dakota
+			ND ; North Dakota
+			MN ; Minnesota
+			IA ; Iowa
+			MO ; Missouri
+			AR ; Arkansas
+			LA ; Louisiana
+			MS ; Mississippi
+			TN ; Tennessee
+			KY ; Kentucky
+			IL ; Illinois
+				IIT name:"Illinois Institute of Technology" hq:Chicago established:1890
+				UIllinois
+					UUrbana-Champaign name:"University of Illinois at Urbana–Champaign" hq:Urbana,Champaign established:1867
+					USpringfield name:"University of Illinois at Springfield" hq:Springfield established:1969
+					UChicago name:"University of Illinois at Chicago" hq:Chicago established:1965				
+			WI ; Wisconsin
+			MI ; Michigan
+				UMichigan name:"University of Michigan" hq:Ann_Arbor established:1817
+			IN ; Indiana
+			OH ; Ohio
+			WV ; West Virginia
+			FL ; Florida
+			AL ; Alabama
+			GA ; Georgia
+			SC ; South Carolina
+			NC ; North Carolina
+			VA ; Virginia
+				VirginiaIU name:"Virginia Polytechnic Institute and State University" hq:Blacksburg
+			DC ; DC Columbia
+			MD ; Maryland
+			DE ; Delaware
+			NJ ; New Jersey
+				UPrinceton name:"Princeton University" hq:Princeton member:Ivy_League established:1746
+			CT ; Connecticut
+				UYale name:"Yale University" hq:New_Haven member:Ivy_League established:1701
+				UConnecticut name:"University of Connecticut" hq:Storrs,Mansfield
+			RI ; Rod Island
+				UBrown name:"Brown University" hq:Providence member:Ivy_League established:1764
+			MA ; Massachusetts
+				MIT name:"Massachusetts Institute of Technology" hq:Cambridge_MA established:1861
+				UHarvard name:"Harvard University" hq:Cambridge_MA member:Ivy_League established:1636
+					Harvard_Medical_School hq:Boston established:1782			
+			VT ; Vermont
+			NH ; New Hampshire
+				CDartmouth name:"Dartmouth College" hq:Hanover member:Ivy_League established:1769
+			NY ; New York
+				UCornell name:"Cornell University" hq:Ithaca member:Ivy_League established:1865
+				UColumbia name:"Columbia University" hq:New_York member:Ivy_League established:1754			
+				NYU name:"New York University" hq:New_York established:1831
+					CIMS name:"Courant Institute of Mathematical Sciences" hq:New_York established:1935				
+				SUNY name:"State University of New York" hq:New_York established:1948
+				StJohnsU name:"St. John's University" hq:New_York state:NY
+				UBuffalo name:"University of Buffalo" hq:Buffalo
+			PA ; Pennsylvania
+				UPenn name:"University of Pennsylvania" alt-id:UPennsylvania hq:Philadelphia member:Ivy_League established:1740
+				UCarnegieMellon name:"Carnegie Mellon University" hq:Pittsburgh established:1900	
+			ME ; Men
+			AK ; Alaska
+			HI ; Hawaii		
+			DC ; District Columbia
+				Georgetown_University hq:Washington
+	south_america
+		brazil
+			PCU-Rio hq:Rio_de_Janeiro established:1940
+	africa
+		south_africa
+			UStellenbosch name:"Stellenbosch University" hq:Stellenbosch
+	oceania
+		new_zealand
+			UAuckland name:"University of Auckland" hq:Auckland established:1883
+			UWellington name:"Victoria University of Wellington" hq:Wellington established:1897
+		australia
+			UMurdoch name:"Murdoch University" hq:Perth campus:Singapore,Dubai established:1973
+			UMelbourne name:"University of Melbourne" hq:Melbourne established:1853
+			USydney name:"University of Sydney" hq:Sydney established:1850
+			UNSW name:"The University of New South Wales" hq:Sydney established:1949
+			UMonash name:"Monash University" hq:Melbourne
 	

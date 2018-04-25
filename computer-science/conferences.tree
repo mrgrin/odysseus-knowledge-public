@@ -1,2 +1,7 @@
 conference
-  ACM-GAMM
+	ACM-GAMM
+	HOPL name:"History of Programming Languages" organizer:SIGPLAN
+		HOPL-I start:01.06.1978 end:03.06.1978 place:Los_Angeles
+		HOPL-II start:20.04.1993 end:23.04.1993 place:Cambridge_MA
+		HOPL-III start:09.06.2007 end:10.06.2007 place:San_Diego
+		HOPL-IV date:06.2020 place:San_Diego

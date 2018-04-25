@@ -1,0 +1,9 @@
+; Credits to tools and people, which this or that way helped to build the Knowledge Base
+credit
+	ThanksTo_rkt tool:programming-language ref:Racket
+	ThanksTo_atm tool:text-editor ref:Atom
+	ThanksTo_gmm resource:"Color Google Map markers" designer:Ben_Keen
+	ThanksTo_mcl lib:"Marker Clusterer" github:googlemaps/v3-utility-library designer:skarEE
+	ThanksTo_gjs lib:"GeoJSON" github:caseycesari/geojson.js designer:herkit,nmccready
+	ThanksTo_plt source:"Programming languages timeline" wikipedia-author:ChuckEsterbrook,Jerryobject,W163,Bobbo,Rtoal,Krassotkin,AJRobbins,David_Webb,Trustable,HLachman,DMHr,Kocsonya,Gilliam,Beartham,Linuxjava,Sandridge,Dom96,Mtwoll,Slipstream,Comp.arch,McGeddon,Tamerradwan99,Blueclaw,Chronoscz,Cabarius,Redjamjar,Gijohnson,Fantesykikachu,<others> wikipedia-article:Timeline_of_programming_languages
+	

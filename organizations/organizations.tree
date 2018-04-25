@@ -1,0 +1,32 @@
+organization
+	consortium
+		CODASYL name:"Conference/Committee on Data Systems Languages (CODASYL)" type:"consortium" established:1959
+		ECMA name:"ECMA International" deabbr:"European Computer Manufacturers Association" hq:Geneva established:1961
+		ISO name:"International Organization for Standardization (ISO)" hq:Geneva established:1947
+		ACAA name:"Ada Conformity Assessment Authority" hq:Madison
+		IEC name:"International Electrotechnical Commission" hq:Geneva established:1906
+		W3C name:"World Wide Web Consortium (W3C)" university:MIT hq:Cambridge_MA formation-place:London established:1994
+		ACM name:"Association for Computing Machinery" hq:New_York established:1947
+			SIGPLAN deabbr:"Special Interest Group on programming languages"
+		ITU name:"International Telecommunication Union" alt-id:CCITT former-name:"Comité Consultatif International Téléphonique et Télégraphique" hq:Geneva established:1865
+		Ada_Europe established:1988
+		NEDO name:"New Energy and Industrial Technology Development Organization" city:Kawasaki
+	nonprofit_organization
+		FSF name:"Free Software Foundation" hq:Boston established:1985
+		ISCB name:"International Society for Computational Biology" hq:Bethesda
+		WikiPathways 		
+	user_group
+		SHARE type:"user group" established:1955
+		GNU_PROJECT founder:Richard_Stallman organization:FSF established:1983
+			GNOME name:"The GNOME Project" established:1997
+		The_Rakudo_Team url:"goo.gl/vdAUnS"
+	government
+		usa
+			US_Navy name:"United States Navy" hq:Washington established:1775
+			NIH name:"National Institutes of Health" hq:Bethesda established:1887
+			US_Defense name:"United States Department of Defense" hq:Washington established:1947
+			NIST name:"National Institute of Standards and Technology" hq:Gaithersburg established:1901
+		great_britain
+			GCHQ name:"Government Communications Headquarter" hq:Cheltenham established:1919
+		japan
+			JST name:"Japan Science and Technology Agency" country:Japan

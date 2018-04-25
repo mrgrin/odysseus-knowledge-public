@@ -1,0 +1,57 @@
+research_center
+	europe
+		EMBL name:"European Molecular Biology Laboratory" hq:Heidelberg,Grenoble,Hamburg,Hinxton,Monterotondo
+		england
+			EMBL-EBI name:"European Bioinformatics Institute" hq:Hinxton part-of:EMBL
+			ICLondon name:"Imperial College London" hq:London established:1823
+			IBabraham name:"Babraham Institute" hq:Babraham
+		france
+			INRIA name:"French Institute for Research in Computer Science and Automation" hq:Rocquencourt office:Bordeaux,Grenoble,Lille,Nancy,Rocquencourt,Rennes,Saclay,Sophia_Antipolis established:1967
+			EISBM name:"European Institute for Systems Biology and Medicine" hq:Lyon
+			ICurie name:"Curie Institute" hq:Paris
+			ENPC name:"École nationale des ponts et chaussées" hq:Champs-sur-Marne established:1747
+		germany
+			HITS name:"Heidelberg Institute for Theoretical Studies" hq:Heidelberg
+			Leibniz_Association name:"Leibniz Association" hq:Berlin
+				Leibniz_Institute_of_Plant_Genetics name:"Leibniz Institute of Plant Genetics and Crop Plant Research" hq:Gatersleben			
+		italy
+			Mario_Negri_Institute name:"Mario Negri Institute for Pharmacological Research" hq:Milan
+		netherlands
+			Centrum_Wiskunde_and_Informatica alt-id:CWI hq:Amsterdam established:1948
+		russia
+			NAkademgorodok name:"Новосибирский Академгородок" hq:Novosibirsk established:1957		
+			Institute_of_Systems_Biology alt-id:ISB hq:Novosibirsk
+		spain
+			Barcelona_Supercomputing_Center alt-id:BSC hq:Barcelona
+		switzerland
+			Swiss_Institute_of_Bioinformatics alt-id:SIB hq:Lausanne
+		ukraine
+			ICYB name:"Институт кибернетики имени В.М.Глушкова" hq:Kiev established:1962
+	asia
+		japan
+			Riken hq:Wako
+				Riken_CIMS name:"RIKEN Center for Integrative Medical Sciences"
+			AIST name:"National Institute of Advanced Industrial Science and Technology" hq:Tsukuba				
+			Systems_Biology_Institute alt-id:SBI hq:Tokyo
+		turkey
+			I-Vis name:"i-Vis (Information Visualization) Research Lab" university:UBilkent
+			UBilkent-BCB name:"Bilkent Center for Bioinformatics" university:UBilkent
+	north_america
+		usa
+			Microsoft_Research company:Microsoft hq:Redmond established:1991
+			Massachusetts_General_Hospital hq:Boston established:1811
+			ANL name:"Argonne National Laboratory" hq:Lemont established:1911		
+			SRI_International deabbr:"Stanford Research Institute" hq:Menlo_Park established:1946
+			Rockford_Research_Institute hq:Rockford established:1961
+			Memorial_Sloan_Kettering_Cancer_Center name:"Memorial Sloan Kettering Cancer Center" hq:New_York
+			Fred_Hutchinson_Cancer_Research_Center hq:Seattle
+			National_Cancer_Institute hq:Rockville part-of:NIH
+			IGladstone name:"Gladstone Institutes" hq:San_Francisco
+			Biocomplexity_Institute_of_Virginia_Tech hq:Blacksburg,Arlington			
+			UChicago-CDIS name:"Center for Data Intensive Science" university:UChicago
+			USC_NCCC name:"USC Norris Comprehensive Cancer Center" university:USouthernCalifornia
+			NYULMC name:"NYU Langone Medical Center" university:NYU
+			GUMC name:"Georgetown University Medical Center" city:Washington university:Georgetown_University			
+		canada
+			OICR name:"Ontario Institute for Cancer Research" hq:Toronto
+			BaderLab hq:Toronto university:UToronto

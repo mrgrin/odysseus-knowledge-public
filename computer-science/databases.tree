@@ -9,4 +9,5 @@ dbms
 	DEX year:198x type:graph_database
 	Sparksee year:2008 type:graph_database from:DEX
 database
-	Kegg year:1995 field:biology university:UKyoto
+	biology
+		Kegg year:1995 university:UKyoto

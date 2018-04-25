@@ -1,0 +1,26 @@
+biology_database
+	PANTHER name:"Protein ANalysis THrough Evolutionary Relationships" desc:"Proteins classification by families, molecular function, biological process and pathway" export:SBGN-PD,SBGN-ML host:USC_NCCC
+	pathways_database
+		KEGG host:UKyoto
+		BioCyc host:SRI
+			MetaCyc
+			HumanCyc
+		UniProt host:EMBL-EBI,Swiss_Institute_of_Bioinformatics,PIR
+		Reactome export:SBML,SBGN-PD,BioPAX host:OICR,NYULMC,EMBL-EBI,OHSU
+		Signaling_Gateway export:PDF,XML,BioPAX,SBPAX,SBML host:UCSD
+		ACSN name:"Atlas of Cancer Signalling Networks" export:SBGN-PD host:ICurie
+		AlzPathway desc:"Signaling Pathways of Alzheimer’s Disease" export:SBGN-PD host:TMDU,Systems_Biology_Institute
+		AsthmaMap shows:SBGN-PD export:SVG,SBML,SBGN-ML host:ULuxembourg
+		IPavs name:"An Integrated Pathway Resources, Analysis and Visualization System" export:SBGN-PD host:GIST
+		MetaCrop desc:"Summarizes diverse information about metabolic pathways in crop plants" export:SBGN-ML,SBML uses:VANTED host:IPK
+		NaviCell desc:"Web tool for exploring large maps of molecular interactions" export:SBGN-PD host:ICurie
+		PD_Map name:"Parkinson's disease map" export:SBGN-PD,SBGN-ML,SBML host:ULuxembourg
+		RIMAS name:"Regulatory Interaction Maps of Arabidopsis Seed Development" export:SBGN-PD host:IPK
+		SubtiPathways export:SBGN-PD host:UGottingen
+		WikiPathways host:WikiPathways university:UMaastricht
+	quantitative_models_database
+		BioModels import:SBML,CellML export:SBML,VCML,XPP,SciLab,Octave,BioPAX,RDF-XML,SBGN-PD host:EMBL-EBI
+			Path2Models export:SBGN-PD,SBGN-AF,SBGN-ML
+	ontology
+		SBO name:"Systems Biology Ontology" owl:"http://www.ebi.ac.uk/sbo/exports/Main/SBO_OBO.obo"
+		EDAM name:"EMBRACE Data And Methods" article:Ison_2013 parent-project:EMBRACE

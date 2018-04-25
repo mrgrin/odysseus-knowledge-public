@@ -1,0 +1,18 @@
+rating
+	TIOBE company:TIOBE since:2001
+	PYPL deabbr:"PopularitY of Programming Language" designer:Pierre_Carbonnelle since:2004
+	RMPLR deabbr:"RedMonk Programming Language Rankings"
+	Trendy_Skills url:"trendyskills.com"
+	Stack_Overflow name:"Stack Overflow's 2016 Developer Survey Results" company:Stack_Overflow
+	Krihelinator.xyz url:"krihelinator.xyz"
+	Indeed_2016
+	IEEE_Spectrum
+timeline
+	Wikipedia1 article:"Timeline_of_programming_languages"
+	Vullum.io designer:Eirik_Vullum url:"vullum.io/timeline/programming-languages"
+	Knightlab url:"goo.gl/8Jsz4o"
+database
+	HOPL-DB url:"hopl.info" librarian:Diarmuid_Pigott,Bruce_Axtens items:8945
+	Kennersley_List url:"goo.gl/duZFWd" librarian:Bill_Kinnersley items:2500
+	FOLDOC url:"goo.gl/N9VdJD"
+	Esolang url:"esolangs.org" chat:IRC

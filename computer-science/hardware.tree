@@ -1,22 +1,22 @@
 hardware
 	computers
-    Analytical_Engine year:1910 designer:Henry_Babbage
-  	Z3 year:1941 designer:Konrad_Zuse
-  	Z4 year:1942 designer:Konrad_Zuse
-  	ENIAC year:1945 designer:John_Mauchly,Presper_Eckert lang:Brief_Code,Short_Code company:US_Army
-  	CSIRAC year:1949 designer:Trevor_Pearcey lang:INTERPROGRAM company:UMelbourne?
-  	EDSAC year:1950 company:UCambridge
-		Whirlwind_I year:1951 company:MIT
-  	ERA_ATLAS year:1950 company:US_Navy 
-  		UNIVAC_1101 year:1951 designer:Seymour_Cray company:ERA
-  	IBM_701 year:1952 designer:Nathaniel_Rochester lang:Speedcoding company:IBM
-  	UNIVAC_I year:1951 designer:Presper_Eckert company:Remington_Rand
-  	UNIVAC_1103 year:1953 designer:Seymour_Cray company:ERA
-  	IBM_650 year:1953 company:IBM
-  	IBM_704 year:1954 lang:Fortran,Lisp,COMIT company:IBM
-  	Datamatic_1000 year:1955? company:Honeywell,Raytheon
-  	IBM_7070 year:1958 company:IBM
-  	IBM_1620 year:1959 company:IBM
-  	IBM_1401 year:1959 lang:COBOL,RPG,Fortran company:IBM
-  	Honeywell_200 year:1960? lang:COBOL company:Honeywell
-  	Honeywell_800 year:1960 lang:COBOL,Fortran company:Honeywell
+		Analytical_Engine year:1910 designer:Henry_Babbage
+		Z3 year:1941 designer:Konrad_Zuse
+		Z4 year:1942 designer:Konrad_Zuse
+		ENIAC year:1945 designer:John_Mauchly,Presper_Eckert lang:Brief_Code,Short_Code organization:US_Army
+		CSIRAC year:1949 designer:Trevor_Pearcey lang:INTERPROGRAM university:UMelbourne
+		EDSAC year:1950 university:UCambridge
+		Whirlwind_I year:1951 university:MIT
+		ERA_ATLAS year:1950 company:US_Navy 
+			UNIVAC_1101 year:1951 designer:Seymour_Cray company:ERA
+		IBM_701 year:1952 designer:Nathaniel_Rochester lang:Speedcoding company:IBM
+		UNIVAC_I year:1951 designer:Presper_Eckert company:Remington_Rand
+		UNIVAC_1103 year:1953 designer:Seymour_Cray company:ERA
+		IBM_650 year:1953 company:IBM
+		IBM_704 year:1954 lang:Fortran,Lisp,COMIT company:IBM
+		Datamatic_1000 year:1955 company:Honeywell,Raytheon
+		IBM_7070 year:1958 company:IBM
+		IBM_1620 year:1959 company:IBM
+		IBM_1401 year:1959 lang:COBOL,RPG,Fortran company:IBM
+		Honeywell_200 year:1960? lang:COBOL company:Honeywell
+		Honeywell_800 year:1960 lang:COBOL,Fortran company:Honeywell
