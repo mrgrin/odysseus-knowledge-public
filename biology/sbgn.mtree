@@ -5,15 +5,16 @@ sbgn
 	pattern
 		controls_abstraction
 			positive-control
-				includes:`catalysis`,`stimulation`,`necessary-stimulation`
+				includes:`catalysis`,`stimulation`,`necessary-stimulation` <.>
 			unknown-control
-				includes:`modulation`
+				includes:`modulation` <.>
 			negative-control
-				includes:`inhibition`
+				includes:`inhibition` <.>
 			af-control
 				descr:"Maps PD diagram control element to correspondent AF diagram control element"
 				blackbox:`<af-control c>`,`<af-control>`
 				af:`positive-influence`,`negative-influence`,`necessary-stimulation`,`unknown-influence`
+				<.>
 		simple_control
 			simple_positive_control
 				status:implemented
@@ -42,11 +43,13 @@ sbgn
 				descr:"A source takes role of incoming metabolite in the simple control pattern, it should not be represented in Activity Flow diagram. In contrary tothe source, C element is always included into AF diagram, even if it doesn't participate in other reactions"
 				pd:`<simple-control A source C>`
 				af:`[A <af-control> C]`		
+				<.>
 			control_over_sink
 				status:implemented
 				descr:"A sink takes role of outcoming metabolite in the simple control pattern, it should not be represented in Activity Flow diagram. B is included to AF diagram, even if it participates only in this reaction"
 				pd:`<simple-control A B sink>`
-				af:`[A <af-control> B]`				
+				af:`[A <af-control> B]`			
+				<.>	
 		inhibition
 			by_modification
 				descr:"A stimulates B1 to become B2, reducing concentration of B1 and stimulation of reaction C1 to C2, hence inhibiting the reaction C1 to C2"
