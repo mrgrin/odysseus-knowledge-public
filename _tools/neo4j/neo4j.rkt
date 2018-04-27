@@ -8,6 +8,8 @@
 
 ; the result should be run through: cypher-shell -u neo4j -p <pwd> < c:/denis/denis_core/odysseus-knowledge/_tools/neo4j/odysseus-knowledge.cypher
 
+; TODO: Fix UTF-8 issue with cypher-shell
+
 (define refs (parse-tab-tree (pth "meta/refs.tree")))
 
 (define (get-all-leaves refs-hash-tree)

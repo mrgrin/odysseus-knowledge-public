@@ -24,6 +24,7 @@ organization
 		usa
 			US_Navy name:"United States Navy" hq:Washington established:1775
 			NIH name:"National Institutes of Health" hq:Bethesda established:1887
+				NLM deabbr:"US National Library of Medicine" hq:Bethesda established:1836
 			US_Defense name:"United States Department of Defense" hq:Washington established:1947
 			NIST name:"National Institute of Standards and Technology" hq:Gaithersburg established:1901
 		great_britain

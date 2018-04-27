@@ -1,0 +1,51 @@
+; biology_database
+; 	PANTHER name:"Protein ANalysis THrough Evolutionary Relationships" desc:"Proteins classification by families, molecular function, biological process and pathway" export:SBGN-PD,SBGN-ML host:USC_NCCC
+; 	pathways_database
+; 		KEGG host:UKyoto
+; 		BioCyc host:SRI
+; 			MetaCyc
+; 			HumanCyc
+; 		UniProt host:EMBL-EBI,Swiss_Institute_of_Bioinformatics,PIR
+; 		Reactome export:SBML,SBGN-PD,BioPAX host:OICR,NYULMC,EMBL-EBI,OHSU
+; 		Signaling_Gateway export:PDF,XML,BioPAX,SBPAX,SBML host:UCSD
+; 		ACSN name:"Atlas of Cancer Signalling Networks" export:SBGN-PD host:ICurie
+; 		AlzPathway desc:"Signaling Pathways of Alzheimer’s Disease" export:SBGN-PD host:TMDU,Systems_Biology_Institute
+; 		AsthmaMap shows:SBGN-PD export:SVG,SBML,SBGN-ML host:ULuxembourg
+; 		IPavs name:"An Integrated Pathway Resources, Analysis and Visualization System" export:SBGN-PD host:GIST
+; 		MetaCrop desc:"Summarizes diverse information about metabolic pathways in crop plants" export:SBGN-ML,SBML uses:VANTED host:IPK
+; 		NaviCell desc:"Web tool for exploring large maps of molecular interactions" export:SBGN-PD host:ICurie
+; 		PD_Map name:"Parkinson's disease map" export:SBGN-PD,SBGN-ML,SBML host:ULuxembourg
+; 		RIMAS name:"Regulatory Interaction Maps of Arabidopsis Seed Development" export:SBGN-PD host:IPK
+; 		SubtiPathways export:SBGN-PD host:UGottingen
+; 		WikiPathways host:WikiPathways university:UMaastricht
+; 	quantitative_models_database
+; 		BioModels import:SBML,CellML export:SBML,VCML,XPP,SciLab,Octave,BioPAX,RDF-XML,SBGN-PD host:EMBL-EBI
+; 			Path2Models export:SBGN-PD,SBGN-AF,SBGN-ML
+; 	ontology
+; 		SBO name:"Systems Biology Ontology" owl:"http://www.ebi.ac.uk/sbo/exports/Main/SBO_OBO.obo"
+; 		EDAM name:"EMBRACE Data And Methods" article:Ison_2013 parent-project:EMBRACE
+biology_database
+	meta_database
+		Entrez year:1991 owner:NCBI
+		Neuroscience_Information_Framework year:2004 alt-id:NIF owner:UC_San_Diego
+		ConsensusPathDB year:2008 owner:Max_Planck_Society
+	nucleic_acid_database
+		dna_database
+			DNA_Data_Bank_of_Japan year:1986 owner:Japanese_Institute_of_Genetics assoc:INSDC
+			EMBL_NSD year:2000 deabbr:"EMBL Nucleotide Sequence Database" owner:EMBL assoc:INSDC
+			GenBank year:1982 owner:NCBI assoc:INSDC
+			RefSeq year:2005 owner:NCBI type:secondary
+			OMIM year:1966 deabbr:"Online Mendelian Inheritance in Man" owner:JHUSOM type:secondary
+			HapMap year:2002 deabbr:"Haplotype Map" owner:<many> type:secondary
+			23andMe_database year:2006 owner:23andMe type:primary
+		gene_expression_database
+			
+			
+			
+	Swiss-Prot owner:Swiss_Institute_of_Bioinformatics
+	PIR deabbr:"Protein Information Resource" owner:Georgetown_University
+	EMBL_NSD 
+	OWL type:composite url:130.88.97.239/OWL owner:UManchester
+	PROSITE owner:SIB
+	
+	DiseaseDB url:diseasesdatabase.com

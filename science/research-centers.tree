@@ -1,6 +1,6 @@
 research_center
 	europe
-		EMBL name:"European Molecular Biology Laboratory" hq:Heidelberg,Grenoble,Hamburg,Hinxton,Monterotondo
+		EMBL name:"European Molecular Biology Laboratory" hq:Heidelberg lab:Heidelberg,Grenoble,Hamburg,Hinxton,Monterotondo
 		england
 			EMBL-EBI name:"European Bioinformatics Institute" hq:Hinxton part-of:EMBL
 			ICLondon name:"Imperial College London" hq:London established:1823
@@ -13,7 +13,8 @@ research_center
 		germany
 			HITS name:"Heidelberg Institute for Theoretical Studies" hq:Heidelberg
 			Leibniz_Association name:"Leibniz Association" hq:Berlin
-				Leibniz_Institute_of_Plant_Genetics name:"Leibniz Institute of Plant Genetics and Crop Plant Research" hq:Gatersleben			
+				Leibniz_Institute_of_Plant_Genetics name:"Leibniz Institute of Plant Genetics and Crop Plant Research" hq:Gatersleben	
+			Max_Planck_Society hq:Munich established:1911		
 		italy
 			Mario_Negri_Institute name:"Mario Negri Institute for Pharmacological Research" hq:Milan
 		netherlands
@@ -33,6 +34,7 @@ research_center
 				Riken_CIMS name:"RIKEN Center for Integrative Medical Sciences"
 			AIST name:"National Institute of Advanced Industrial Science and Technology" hq:Tsukuba				
 			Systems_Biology_Institute alt-id:SBI hq:Tokyo
+			Japanese_Institute_of_Genetics hq:Mishima established:1949
 		turkey
 			I-Vis name:"i-Vis (Information Visualization) Research Lab" university:UBilkent
 			UBilkent-BCB name:"Bilkent Center for Bioinformatics" university:UBilkent
@@ -51,7 +53,9 @@ research_center
 			UChicago-CDIS name:"Center for Data Intensive Science" university:UChicago
 			USC_NCCC name:"USC Norris Comprehensive Cancer Center" university:USouthernCalifornia
 			NYULMC name:"NYU Langone Medical Center" university:NYU
-			GUMC name:"Georgetown University Medical Center" city:Washington university:Georgetown_University			
+			GUMC name:"Georgetown University Medical Center" city:Washington university:Georgetown_University
+			NCBI deabbr:"National Center for Biotechnology Information" part-of:NLM	hq:Bethesda established:1988
+			JHUSOM deabbr:"Johns Hopkins School of Medicine" university:UJohnsHopkins hq:Baltimore established:1893
 		canada
 			OICR name:"Ontario Institute for Cancer Research" hq:Toronto
 			BaderLab hq:Toronto university:UToronto

@@ -293,6 +293,7 @@ programming_language
 	Bash year:1989 designer:Brian_Fox from:Bourne_Shell,C_shell,Korn_Shell
 	Magik year:1989 designer:Arthur_Chance company:Smallworld_Systems from:Smalltalk
 	rc year:1989 designer:Tom_Duff company:Bell_Labs from:Bourne_Shell
+	IgorPRO year:1989 company:WaveMetrics
 	XLISP year:198x designer:David_Betz from:Scheme
 	FALSE year:198x designer:Wouter_van_Oortmerssen from:Forth,TECO_language
 	; 1990s
@@ -338,7 +339,7 @@ programming_language
 	Java year:1995 designer:James_Gosling company:Sun_Microsystems from:C,Simula_67,C++,Smalltalk,Ada_83,Objective-C,Mesa
 	LiveScript year:1995 designer:Brendan_Eich company:Netscape from:Self,C,Scheme
 	Mercury year:1995 designer:Zoltan_Somogyi university:UMelbourne from:Prolog,Hope,Haskell
-	PHP year:1995 designer:Rasmus_Lerdorf university:UMelbourne from:Perl
+	PHP year:1995 designer:Rasmus_Lerdorf from:Perl
 	Ruby year:1995 designer:Yukihiro_Matsumoto from:Smalltalk,Perl
 	JavaScript year:1995 designer:Brendan_Eich company:Netscape from:LiveScript
 	Racket year:1995 designer:Matthew_Flatt university:URice from:Scheme,Lisp

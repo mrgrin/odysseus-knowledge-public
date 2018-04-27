@@ -4,6 +4,8 @@ university
 			UBrussels name:"Free University of Brussels" hq:Brussels established:1834
 				ULB name:"Université Libre de Bruxelles" established:1969
 				VUB name:"Vrije Universiteit Brussel" established:1969
+			KULeuven name:"Katholieke Universiteit Leuven" hq:Leuven established:1425
+			UGhent hq:Ghent established:1817
 		england
 			UOxford hq:Oxford established:~1096
 			UCambridge hq:Cambridge established:~1209
@@ -44,7 +46,7 @@ university
 			NTNU name:"Norwegian University of Science and Technology" hq:Trondheim
 			UiB name:"University of Bergen" hq:Bergen	
 		poland
-			UWroclaw name:"University of UWroclaw" former-name:"Universität Breslau" hq:UWroclaw established:1702	
+			UWroclaw name:"University of UWroclaw" former-name:"Universität Breslau" hq:Wroclaw established:1702	
 		russia
 			ISU name:"Иркутский государственный университет" hq:Irkutsk established:1918
 			MSU name:"Московский государственный университет" hq:Moscow established:1755
@@ -83,6 +85,7 @@ university
 			CA ; California
 				UStanford name:"Stanford University" hq:Stanford established:1891
 				UCalifornia name:"University of California" hq:Oakland established:1868
+					UC_San_Diego hq:San_Diego
 				USouthernCalifornia name:"University of Southern California" hq:Los_Angeles
 				CIT name:"California Institute of Technology" alt-id:Caltech hq:Pasadena established:1891				
 			ID ; Idaho
@@ -133,6 +136,7 @@ university
 				VirginiaIU name:"Virginia Polytechnic Institute and State University" hq:Blacksburg
 			DC ; DC Columbia
 			MD ; Maryland
+				UJohnsHopkins name:"Johns Hopkins University" hq:Baltimore established:1876
 			DE ; Delaware
 			NJ ; New Jersey
 				UPrinceton name:"Princeton University" hq:Princeton member:Ivy_League established:1746

@@ -1,36 +1,29 @@
-chemistry_format
-	MIM name:"Molecular Interaction Map"
-pharmacy_format
+biology_language
+	MIM deabbr:"Molecular Interaction Map"
 	PharmML
-	MDL
-biology_format
-	BioPAX fullname:"Biological Pathway Exchange" article:Demir_2010
+	MDL year:1996 implemented-in:C app:Quake
+	BioPAX year:2010 deabbr:"Biological Pathway Exchange" based-on:XML article:Demir_2010
 		BioPAX_L1
 		BioPAX_L2
-		BioPAX_L3 ontology:"http://www.biopax.org/release/biopax-level3.owl"
-			SBPAX
-	SBML implemented-in:XML article:Hucka_2003
+		BioPAX_L3 ontology-url:www.biopax.org/release/biopax-level3.owl
+			SBPAX deabbr:"Systems Biology Pathway Exchange"
+	SBML year:2003 implemented-in:XML article:Hucka_2003
 		SBML_L1
 		SBML_L2
 		SBML_L3
-	CellML article:Lloyd_2004
+	CellML year:2004 article:Lloyd_2004
 	VCML
 	PSI-MI
 	BCML name:"Biological Connection Markup Language" article:Beltrame_2011
 	BEL name:"Biological Expression Language"
 	KGML name:"KEGG Markup Language"
-	biology_diagram_format
-		SBGN type:graphical_representation represented:SBML,GML,GraphML,SBGN-ML xsd:"http://goo.gl/ptMCzG"
-			; SBGN-representation
-			SBGN-ML is:XML
-				SBGN-ML-M1 ; Milestone 1
-				SBGN-ML-M2 ; Milestone 2
-			; SBGN-sublanguage
-			SBGN-PD inspired-by:CellDesigner,EPE
-			SBGN-ER inspired-by:MIM
-			SBGN-AF
-		Reduced_Notation used-by:CellDesigner
-		SBOL name:"Synthetic Biology Open Language"
-		Protein_Language
-		GPML
-		DCL name:"Diagrammatic Cell Language"
+	SBGN year:2006 type:graphical_representation represented:SBML,GML,GraphML,SBGN-ML xsd:"http://goo.gl/ptMCzG"
+		; SBGN-sublanguage
+		SBGN-PD inspired-by:CellDesigner,EPE
+		SBGN-ER inspired-by:MIM
+		SBGN-AF
+	Reduced_Notation app:CellDesigner
+	SBOL deabbr:"Synthetic Biology Open Language"
+	Protein_Language
+	GPML
+	DCL deabbr:"Diagrammatic Cell Language"

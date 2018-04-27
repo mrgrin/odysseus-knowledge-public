@@ -1,8 +1,0 @@
-sbgn-source
-	Reactome url:"https://reactome.org/PathwayBrowser"
-	Pathway-archive url:"https://github.com/sbgn/pathway-archive" diagrams:N006,N011
-	Libsbgn1 url:"https://github.com/sbgn/libsbgn/releases/tag/milestone2"
-	Libsbgn2 url:"https://github.com/sbgn/libsbgn/tree/master/example-files" diagrams:N004,N005,N008,N009,N010
-	Chemhack url:"https://github.com/chemhack/libSBGN.js/tree/master/test/data/sbgn/PD"
-	Sbgnviz url:"https://github.com/iVis-at-Bilkent/sbgnviz.js-sample-app/tree/master/app/samples" diagrams:N012,N013,N014,N015
-	Sbgnpd2an url:"https://github.com/pauleve/sbgnpd2an-suppl/tree/master/MODELS" diagrams:N016,N017
