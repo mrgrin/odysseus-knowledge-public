@@ -1,0 +1,88 @@
+; upto - размер одной инвестиции
+; volume - общий инвестиционный бюджет
+charity
+	Благотворительный_фонд_Потанина hq:Москва
+	Фонд_Кудрина start:05.05.2017 url:fondkudrina.ru
+	SENS hq:Mountain_View owner:Aubrey_de_Grey volume:5M$
+award
+	Хрустальный_Компас hq:Краснодар company:Газпром url:rus-compass.ru	
+governmental
+	BBSRC name:"Biotechnology and Biological Sciences Research Council" hq:Swindon
+	NSF name:"National Science Foundation" hq:Alexandria
+	DARPA hq:Arlington start:1958 budget:2.97B founder:US_Defence
+venture
+	ABRT founder:Андрей_Баронов,Ратмир_Тимашев seed-upto:4M seed-share:20-35% a-upto:15M a-share:15-30% type:hightech
+	Addventure_I start:2008 founder:Елена_Масолова volume:0.3M upto:50K share:25% invested-to:Roomix,Wi2Geo,MMO type:hightech
+	Addventure_II start:2009 volume:0.53M share:25% upto:50K invested-to:InSales,Minibanda.ru type:hightech
+	Admitad_Invest type:hightech
+	Almaz_Capital start:2008 founder:Александр_Галицкий,Петр_Лукьянов volume:72M share:10-40% invested-to:Jelastic,Flirtic,Alawar type:hightech
+	Altair_Capital start:2005 founder:Игорь_Рябенький type:hightech
+	Aventures_Capital start:2000 hq:Киев invested-to:Petcube type:hightech
+	Bright_Capital start:2010 hq:Menlo_Park invested-to:NPTV type:hightech
+	Buran_Venture_Capital type:hightech
+	Da_Vinci_Capital type:hightech
+	E.ventures start:1998 volume:750M upto:100K-10M share:10-49% invested-to:Heverest.ru,Nginx,Teamo,Pin_me  type:hightech
+	Flint_Capital founder:Дмитрий_Смирнов,Олег_Сейдак volume:50M type:hightech
+	Foresight_Ventures founder:Андрей_Казаков volume:10M upto:1M share:25-33% invested-to:KodSkidki.ru,Jelastic,Yam_Labs type:hightech
+	FPI_Partners start:2010 hq:Москва invested-to:FunNano type:hightech
+	IDealMachine start:2012 hq:Санкт-Петербург type:hightech
+	Imi.Vc founder:Игорь_Мацанюк hq:Vilnius? share:<40% upto:1M invested-to:Narr8,Game_Insight  type:hightech
+	Intel_Capital start:1991 volume:400M invested-to:Sapato,KupiVIP type:hightech
+	Kite_Ventures founder:Эдуард_Шендерович share:3-30% upto:10M invested-to:AlterGeo,Ostrovok.ru,ZeptoLab,Trends_Brands  type:hightech
+	Mangrove_Capital hq:Luxembourg partner:ABRT invested-to:Skype,Quintura,KupiVIP,Oktogo.ru,Drimme,HomeMe type:hightech
+	Mint_Capital start:2000 founder:Ульф_Перссон,Фредрик_Экман Volume:150M upto:2M share:<49% invested-to:ABBYY,Gameland,Элекснет type:hightech
+	Prostor_Capital start:2011 volume:20M upto:5M share:25-49% invested-to:Дневник.ру,Vita_Portal,Car-fin.ru type:hightech
+	RedSeed type:hightech
+	Runa_Capital founder:Сергей_Белоусов share:20-40% invested-to:Nginx,Jelastic,LinguaLeo  type:hightech
+	Russian_Ventures start:2008 volume:2.5M invested-to:Okeo,Ogorod,Pluso.ru type:hightech
+	Ru-Net_Ventures founder:Леонид_Богуславский share:30-35% invested-to:Deliveryhero.ru,Made.com,Tradeshift type:hightech
+	Softline_Venture_Partners start:2008 volume:20M invested-to:Мираполис,ActiveCloud,Daripodarki,Magazinga,Client24 type:hightech
+	Ventech hq:Paris share:10% invested-to:Pixonic,Oktogo,WomanJournal,Trends_Brands type:hightech
+	Venture_Angels start:2009 founder:Виталий_Полехин volume:10M invested-to:Printio,BioFoodLab type:hightech
+	Vesna_Investment invested-to:Looksima,Shopogoliq.ru,Connect2me share:30% type:hightech
+	Winter_Capital type:hightech
+	АФК_Система type:hightech
+	РВК deabbr:"Российская венчурная компания" share:25% invested-to:Wobot,Керамические_трансформаторы,Мембранные_технологии type:hightech
+business_angel
+	Александр_Бойков
+	Александр_Бородич invest-n:28 avg-invest:20K$
+	Александр_Румянцев invest-n:15 avg-invest:1-2MR
+	Алексей_Довжиков
+	Алексей_Менн invest-n:8 avg-invest:25-400K
+	Андрей_Головин invest-n:8 avg-invest:25-50K
+	Аркадий_Волож
+	Борис_Жилин invest-n:14 avg-invest:100-200K
+	Богдан_Яровой invest-n:16 avg-invest:50-70K
+	Виталий_Полехин invest-n:10 avg-invest:50-150K
+	Владимир_Батищев
+	Григорий_Руданов
+	Дмитрий_Пучков
+	Евгений_Медведников invest-n:5
+	Игорь_Мацанюк invest-n:4 avg-invest:200K
+	Игорь_Калошин invest-n:3 avg-invest:30K
+	Игорь_Рябенький venture:Altair_Capital
+	Игорь_Шойфот invest-n:8 avg-invest:0.25-1M
+	Николай_Белых
+	Олег_Евсеенков invest-n:22 avg-invest:50K
+	Олег_Чельцов invest-n:7 avg-invest:1M
+	Олександр_Черняк invest-n:10 avg-invest:0.3-2M
+	Оскар_Хартман invest-n:3
+	Сергей_Дашков invest-n:8 avg-invest:150K
+	Сергей_Солонин invest-n:4 avg-invest:1M
+	Федор_Суздалев
+	Эдуард_Фияксель invest-n:18 avg-invest:50-150K
+	Юлий_Зегельман invest-n:33 avg-invest:25K
+crowdfunding
+	Planeta start:2009,2012 hq:Москва
+	Boomstarter start:2012 hq:Москва
+	Kiva start:2005 hq:San_Francisco type:debt
+	IndieGoGo start:2008 hq:San_Francisco
+	Kickstarter start:2009 hq:New_York
+	GoFundMe start:2010 hq:Redwood_City before:CreateaFund
+	Microventures start:2010 hq:Austin
+	RocketHub start:2010 hq:New_York
+	YouCaring start:2011 hq:San_Francisco GoFundMe:2018
+	PeerBakers
+	Booomerang start:2011 hq:Copenhagen url:booomerang.dk
+	Betterplace hq:Berlin
+	Respekt hq:Vienna

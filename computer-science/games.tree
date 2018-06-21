@@ -1,9 +1,0 @@
-game
-	strategy
-		turn_based_strategy
-			Classic_Empire year:1977 author:Walter_Bright
-			Civilization author:Sid_Meier
-		real_time_strategy
-			Starcraft company:Blizzard_Entertainment
-				Broodwar
-			Warcraft company:Blizzard_Entertainment

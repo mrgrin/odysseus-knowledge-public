@@ -1,0 +1,11 @@
+startup_news
+	FST name:"Fast Salt Times" url:fastsalttimes.com
+	VC.ru url:vc.ru publisher:Комитет
+	Skolkovo url:http://sk.ru/news
+	Forbes.ru url:forbes.ru
+	Rb.ru url:rb.ru
+publishers
+	Комитет projects:VC.ru,Spark,TJournal.ru url:cmtt.ru
+	Rusbase hq:Москва
+databases
+	Все_компании_и_стартапы url:rb.ru/company company:Rusbase
