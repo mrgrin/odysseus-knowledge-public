@@ -4,8 +4,7 @@ startup_news
 	Skolkovo url:http://sk.ru/news
 	Forbes.ru url:forbes.ru
 	Rb.ru url:rb.ru
-publishers
-	Комитет projects:VC.ru,Spark,TJournal.ru url:cmtt.ru
-	Rusbase hq:Москва
+	Firrma.ru url:firrma.ru
+	Секрет_Фирмы hq:Москва address:"Варшавское шоссе 9с1" url:secretmag.ru
 databases
 	Все_компании_и_стартапы url:rb.ru/company company:Rusbase

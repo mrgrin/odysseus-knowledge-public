@@ -1,0 +1,73 @@
+компании
+	IVAO deabbr:"Viam Affectare Olympo" url:Ivao.com
+	НЗПЖ deabbr:"Наука за продление жизни" url:Scienceagainstaging.com
+	НИЦПТ deabbr:"Научно-исследовательский центр передовых технологий" url:goo.gl/qovCWZ
+	КриоРус url:Kriorus.ru
+	Институт_биологии_старения founder:Тимур_Артемьев
+	Фонд_Вечная_Молодость start:1996 city:Санкт-Петербург url:vechnayamolodost.ru
+организации
+	РТД deabbr:"Российское трансгуманистическое движение" start:2003 url:Transhumanism-russia.ru
+	Humanity+ former-name:"Всемирная трансгуманистическая организация",1998-2008 start:1998 founder:Nick_Bostrom,David_Pearce members:3000
+	Россия_2045 start:2011 hq:Москва founder:Дмитрий_Ицков url:2045.ru
+	Союз_Бессмертие ; TODO: вынес в какое-то отдельное место список групп, входящих в организацию, найти и использовать как источник информации об организациях и персоналиях
+	Вечное_Отечество founder:Михаил_Денисов
+	РФО deabbr:"Российское Философское Общество"
+персоналии
+	Михаил_Батин city:Москва ceo:Наука_за_продление_жизни
+	Роман_Заболотников city:Саратов project-url:Vechnomolod.ru
+	Елена_Милова project-url:Lifespan.io
+	Данила_Медведев founder:КриоРус
+	Валерия_Удалова niсk:Валерия_Прайд edu:МФТИ ceo:КриоРус project:Лекции_по_трансгуманизму civil-husband:Данила_Медведев,2009-08.2017
+	Игорь_Кирилюк type:hub-person member:РТД 
+	Игорь_Артюхов member:РТД company:Институт_биологии_старения
+	Дмитрий_Веремеенко project-url:Nestarenie.ru
+	Дмитрий_Рязанов project-url:Bessmertie.ru
+	Игорь_Федоров project:Памятка_Долгожителя,Союз_Бессмертие email:transgumanist@bk.ru
+	Дмитрий_Ицков founder:New_Media_Stars bdate:1980 bplace:Брянск
+	Алексей_Москалев t:дбн job:IVAO
+	Raymond_Kurzweil ru-id:Рэй_Курцвейл bdate:1948 job:Google
+	Элизабет_Пэрриш founder:BioViva
+	Алексей_Самыкин member:РТД company:КриоРус
+	Алексей_Турчин prof:писатель-футуролог
+	Эрик_Дрекслер
+	Джулиан_Хаксли
+проекты
+	Open_Longevity company:НЗПЖ url:openlongevity.io chat-url:t.me/open_longevity 
+	Школа_Open_Longevity company:Наука_за_продление_жизни
+	Longevity_Cookbook company:Наука_за_продление_жизни
+	Лендинг_Атакует company:Наука_за_продление_жизни
+	Системная_схема_старения_человека company:НИЦПТ url:Sciencevsaging.org
+	Lifespan.io
+	Аватар org:Россия_2045
+		Аватар_А d:"небиологическое антропоморфное тело"
+		Аватар_Б d:"искуственное тело с трансплантацией мозга"
+		Аватар_В d:"перенос сознания в искусственное тело"
+		Аватар_Г d:"создание тела из нанороботов и тела-голограммы"
+	Gerontology_Explorer url:gerontology-explorer.narod.ru
+	Vitacoin company:IVAO
+продукты
+	VOICe org:РТД year:2015
+сайты
+	Nestarenie.ru start:09.2014
+	Bessmertie.ru start:2000
+книги
+	Отмена_Старения year:2005 author:Обри_ди_Грей
+	Правила_Долголетия year:2012 author:Дэн_Бюттнер
+	Антивозрастная_медицина year:2014 author:Инга_Фефилова
+	120_лет_жизни-только_начало year:2015 author:Алексей_Москалев
+	Эволюция_разума year:2015 author:Рэй_Курцвейл
+	Как_победить_свой_возраст year:2016 author:Алексей_Москалев
+базы_данных
+	Кто_есть_кто_в_геронтологии url:whoswho.senescence.info
+встречи
+	МФКК-7 deabbr:"VII международный философско-культурологический конгресс" city:Санкт-Петербург date:08.2004 ; Была выработана стратегия продвижения и развития трансгуманистических идей в России, создан ныне действующий сайт, заново написаны все документы организации, включая Манифест
+	СТИ deabbr:"Междисциплинарный семинар по трансгуманизму и иммортализму" start:01.2005 city:Москва cycle:monthly cell-of:РФО
+	SS-6 deabbr:"6-й Саммит Сингулярности" city:New_York date:10.2011 presentation:Бессмертие_2045
+коммуникация
+	Чат_Трансгуманистов admin:Игорь_Федоров url:tamtam.chat/transgumanizm
+; Open Longevity actual:
+неформальные_сообщества
+	Quantified_Self
+	The_Brights url:brights-russia.org
+техники
+	Scrum

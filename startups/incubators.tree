@@ -1,0 +1,51 @@
+технопарки
+	Технопарк_Санкт-Петербурга
+	Премьер-плаза city:Москва
+	Жигулевская_Долина city:Тольятти
+	Томский_Технопарк start:1990 city:Томск
+	Башкортостан start:1991 city:Уфа
+	Астро-Гермес end:?
+акселераторы
+	Акселератор_ФРИИ
+	Farminers company:imi.vc url:farminers.com 
+	Главстарт end:2013? url:vk.com/glavstart
+	Startup_Magic
+	Texdrive
+	Синергия_Инноваций
+	Акселератор_в_InCube
+	Бизнес-катализатор
+	iDeal_Machine university:ИТМО
+	Spanish_Village
+	Капитаны_России university:РЭУ_им_Плеханова
+	Акселератор_УрФУ city:Екатеринбург
+	NUMA_Moscow
+	Формула_биотех_2016 university:MSU
+бизнес-инкубаторы
+	БИ_ВШЭ start:2006 city:Москва
+	БИ_АНХ start:2010 city:Москва university:"Академия народного хозяйства" partner:CRDF startups-n:120
+	И_Ингрия start:2008 city:Санкт-Петербург url:ingria-startup.ru
+	Digital_October
+	Greenfield_Project
+	InCube
+	Realogic
+	БИ_Сколково
+	БИ_МГУ
+	И_РЭУ_им_Плеханова start:2009
+	БИ_ИТМО city:Санкт-Петербург
+	БИ_ИрНИТУ city:Иркутск
+	МБИ_Дружба city:Томск
+	IT-Park_Казань city:Казань
+	Plug_and_Play_Dagestan start:2013 brand:ПЕРИ_Инновации city:Махачкала university:ДГТУ
+	БИ_Жигулевская_Долина tp:Жигулевская_Долина
+	Корпорация_развития_Зеленограда address:"ул. Юности 8"
+	БИ_СГУ city:Саратов ; интервью с Андреем Арно
+  БИ_Тула url:hub71.ru
+	БИ_Республики_Карелия city:Петрозаводск university:ПетрГУ
+	Серпуховский_БИ city:Серпухов
+	БИ_ХимРар url:chemrar.ru
+сколково
+	ИТ
+	Биомед url:sk.ru/foundation/biomed ceo:Кирилл_Каем
+	Энерготех
+	Космос
+	Ядертех

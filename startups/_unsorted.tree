@@ -11,6 +11,13 @@ corporation
 		CIO deabbr:"Chief Information Officer"
 		CFO
 		COO deabbr:"Chief Operation Officer"
+инновационные_регионы org:Ассоциация_инновационных_регионов
+	Татарстан
+		Университет_талантов type:project topic:экономика_знаний
+	Новосибирск
+	Санкт-Петербург
+	Самара
+		Стартап_Самара		
 
 
 			

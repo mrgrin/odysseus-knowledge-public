@@ -1,0 +1,14 @@
+фонды
+	Инфрафонд company:РВК
+	Фонд_Сколково
+	ФРИИ deabbr:"Фонд Развития Интернет Инициатив" hq:Москва hq-addr:"Мясницкая 13с18"
+госструктуры
+	МБМ deabbr:"ГБУ Малый бизнес Москвы" hq:Москва
+аналитика_и_консалтинг
+	UBI_Global hq:Stockholm
+	Frost_and_Sullivan	
+издатели
+	Комитет projects:VC.ru,Spark,TJournal.ru url:cmtt.ru
+вебсайты
+	Rusbase hq:Москва	
+	Firrma.ru ceo:Дмитрий_Фалалеев email:df@firrma.ru
